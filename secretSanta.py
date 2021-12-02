@@ -24,7 +24,7 @@ for badMatch in unorderedBadMatchesText:
     badMatches.append(badMatch.split("#")[0].strip().split(", ")[0:2])
     badMatches.append(badMatch.split("#")[0].strip().split(", ")[0:2][::-1])
 
-print(badMatches)
+#print(badMatches)
 
 pairs = []
 for giver in givers:
