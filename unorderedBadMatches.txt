@@ -1,0 +1,1 @@
+Bob, Eve # Bob can't give to Eve and Eve can't give to Bob

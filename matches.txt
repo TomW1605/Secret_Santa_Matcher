@@ -1,0 +1,6 @@
+Giver, Receiver
+Alice, Bob
+Bob, Dave
+Charlie, Alice
+Dave, Eve
+Eve, Charlie
